@@ -7,3 +7,9 @@ I'm sharing the repository and preview links so that beginners can learn a thing
 GitHub Link - https://github.com/itsarghyadas/college-redesign
 
 Live URL - https://itsarghyadas.github.io/college-redesign/
+
+![paytm-redesign](https://github.com/user-attachments/assets/0e5e5396-d9d5-431e-9267-911de012595f)
+
+GitHub Link - [https://github.com/itsarghyadas/college-redesign](https://itsarghyadas.github.io/paytm-redesign/)
+
+Live URL - [https://itsarghyadas.github.io/college-redesign/](https://github.com/itsarghyadas/paytm-redesign)
